@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Roger, a United States Army Veteran turned Full Stack Software Developer.</h2>
+<h2 align="center">Hi 👋! My name is Roger, a United States Army Veteran turned Full Stack Software Developer.</h2>
 
 ###
 
