@@ -53,6 +53,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rdelagarza12/count.svg?" />
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/rdelagarza12/rdelagarza12/output/snake.svg" alt="Snake animation" />
