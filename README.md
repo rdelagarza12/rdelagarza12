@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **more about Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at on my github but also check out my last project: **cyberhire.net
+- 👨‍💻 All of my projects are available at on my github but also check out my last project: <a>cyberhire.net<a/>
 
 - 💬 Ask me about **anything involving Django**
 
