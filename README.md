@@ -55,7 +55,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/<your-username>/<your-repo>/blob/output/snake.svg)
+![Snake animation](https://github.com/rdelagarza12/rdelagarza12/blob/output/snake.svg)
 
 
 ###
